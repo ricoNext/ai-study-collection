@@ -1,6 +1,6 @@
-# lanchain-base-llm
+# base-llm
 
-使用 langchain 调用大模型基础调用示例
+大模型基础调用示例
 
 ## 开始
 
