@@ -16,6 +16,15 @@ pnpm dev
 bun dev
 ```
 
+## 添加环境变量
+
+在 .env 中替换 doubao apikey
+
+```
+DOUBAO_API_KEY=xxxxx
+DOUBAO_API_BASE_URL=https://ark.cn-beijing.volces.com/api/v3/
+```
+
 ## 运行
 
 打开 [http://localhost:3000](http://localhost:3000) 查看结果。
